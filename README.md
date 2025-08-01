@@ -54,7 +54,6 @@ ai-doctor-assistant/
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/your-username/ai-doctor-assistant.git
 cd ai-doctor-assistant
 ## Install requirements

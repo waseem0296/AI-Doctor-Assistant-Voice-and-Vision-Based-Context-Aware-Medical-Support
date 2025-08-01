@@ -54,8 +54,8 @@ ai-doctor-assistant/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/ai-doctor-assistant.git
-cd ai-doctor-assistant
+https://github.com/waseem0296/AI-Doctor-Assistant-Voice-and-Vision-Based-Context-Aware-Medical-Support.git
+cd AI-Doctor-Assistant-Voice-and-Vision-Based-Context-Aware-Medical-Support.git
 ## Install requirements
 pip install -r requirements.txt
 
